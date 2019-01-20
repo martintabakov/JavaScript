@@ -1,10 +1,6 @@
 function attachEvents(){
 
-    // TODO - onclick - make a GET request
-    // take text from input field
-    // process the response from the GET request - find the corresponding location code.
-    // display weather forecast
-    let url = 'https://judgetests.firebaseio.com/';
+    let url = 'https://judgetests.firebaseio.com/'; -->  // Locations in database: London, New York, Barcelona
     const symbols = {
         'Sunny': '&#x2600;',
         'Partly sunny': '&#x26C5;',
